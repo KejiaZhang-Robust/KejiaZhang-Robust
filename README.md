@@ -5,7 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kejiaz171@gmail.com)
 
 - 🔭 I’m currently working at Xiamen University (A Second-year Master Student).
-- 📫 How to reach me: kejiaz171@gmail.com
 
 ---
 
