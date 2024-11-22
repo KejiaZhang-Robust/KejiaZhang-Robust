@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/KejiaZhang-Robust)
 ![](https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue)
-[![Gmail](https://img.shields.io/badge/-KejiaZhang-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kejiaz171@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kejiaz171@gmail.com)
 
 - 🔭 I’m currently working at Xiamen University (A Second-year Master Student).
 - 📫 How to reach me: kejiaz171@gmail.com
