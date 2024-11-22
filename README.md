@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue)
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />]([https://github.com/KejiaZhang-Robust](https://github.com/KejiaZhang-Robust)) 
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/KejiaZhang-Robust) 
 [![Gmail](https://img.shields.io/badge/-KejiaZhang-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kejiaz171@gmail.com)
 
 - 🔭 I’m currently working at Xiamen University (A Second-year Master Student).
