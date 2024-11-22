@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&layout=compact&theme=tokyonight)
 
-[![Kejia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KejiaZhang-Robust&area=true&hide_border=true&theme=github&custom_title=Kejia)](https://github.com/KejiaZhang-Robust/github-readme-activity-graph)
+[![Kejia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KejiaZhang-Robust&area=true&hide_border=true&theme=github&custom_title=Kejia's Contribution Graph)](https://github.com/KejiaZhang-Robust/github-readme-activity-graph)
