@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">  
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=dracula" />  
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&layout=compact&theme=tokyonight" />  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=dracula" />  
+  <img height="115" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&layout=compact&theme=tokyonight" />  
 </div>
 
 ---
