@@ -41,6 +41,7 @@ flat
 <div align="center">
   
 [![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KejiaZhang-Robust&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
