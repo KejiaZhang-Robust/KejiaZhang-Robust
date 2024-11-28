@@ -23,6 +23,7 @@ flat
 ## Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Github-333?style=cobalt&logo=Github&logoColor=white)](https://github.com/KejiaZhang-Robust)
+[![GitHub](https://img.shields.io/github/followers/KejiaZhang-Robust?style=social)](https://github.com/KejiaZhang-Robust)
 ![](https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kejiaz171@gmail.com)
 
