@@ -40,7 +40,7 @@ flat
 
 <div align="center">  
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=dracula&count_private=true" />  
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=KejiaZhang-Robust" />  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&mode=weekly" />  
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=tokyonight" />  
 </div>
 
