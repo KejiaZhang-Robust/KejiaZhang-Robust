@@ -56,7 +56,7 @@ flat
 - Proficient in **Python** and advanced Deep learning frameworks.
 
 <div align="center">
-  <img src="IMG_3762.jpeg" alt="I Am Proficient in Python" width="700" />
+  <img src="python.gif" alt="I Am Proficient in Python" width="700" />
 </div>
 
 ---
