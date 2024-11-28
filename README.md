@@ -49,7 +49,7 @@ flat
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=KejiaZhang-Robust&theme=onedark&hide_border=false&mode=weekly" alt="GitHub Streaks" />  
 </div>
 
-<div align="center">
+<div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=tokyonight&count_private=true" alt="Top Languages" />  
 </div>
 
