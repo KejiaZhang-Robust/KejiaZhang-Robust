@@ -28,8 +28,8 @@ flat
 
 ---
 
-### 🔭 About Me
-
+### 🔭 About Me 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KejiaZhang-Robust&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🎓 **Second-year Master’s Student** at **Xiamen University**.
 - 💻 Passionate about AI research, reliale Large Vision-Language Models(LVMs).
 - 🌟 Skilled in **Python**, deep learning, and multimodal modeling.
