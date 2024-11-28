@@ -29,19 +29,27 @@ flat
 ---
 
 ### 🔭 About Me 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KejiaZhang-Robust&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🎓 **Second-year Master’s Student** at **Xiamen University**.
 - 💻 Passionate about AI research, reliale Large Vision-Language Models(LVMs).
 - 🌟 Skilled in **Python**, deep learning, and multimodal modeling.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=dracula&count_private=true" />  
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=KejiaZhang-Robust&theme=dark&hide_border=false&mode=weekly" />  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=tokyonight" />  
+<div align="center">
+  
+[![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KejiaZhang-Robust&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=KejiaZhang-Robust&theme=dark&hide_border=false&mode=weekly" alt="GitHub Streaks" />  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=tokyonight&layout=compact" alt="Top Languages" />  
+</div>
+
 </div>
 
 ---
