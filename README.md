@@ -13,12 +13,12 @@
       
   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&layout=compact&theme=tokyonight" />
 </div>
-
+vision-friendly-dark
 ---
 # [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KejiaZhang-Robust)](https://github.com/anuraghazra/github-readme-stats)
 [![Kejia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KejiaZhang-Robust&area=true&hide_border=true&theme=github&custom_title=Kejia's%20Contribution%20Graph)](https://github.com/KejiaZhang-Robust/github-readme-activity-graph)
 flat
-![I Am Proficient in Python](IMG_3762.jpeg) -->
+-->
 
 ## Hi there 👋
 
@@ -46,12 +46,12 @@ flat
 ---
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Stats" />  
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=KejiaZhang-Robust&theme=vision-friendly-dark&hide_border=false&mode=weekly" alt="GitHub Streaks" />  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=noctis_minimus&count_private=true" alt="GitHub Stats" />  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=KejiaZhang-Robust&theme=noctis_minimus&hide_border=false&mode=weekly" alt="GitHub Streaks" />  
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=tokyonight&count_private=true" alt="Top Languages" />  
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=noctis_minimus&count_private=true" alt="Top Languages" />  
 </div>
 
 ---
