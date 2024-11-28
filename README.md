@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+# [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KejiaZhang-Robust)](https://github.com/anuraghazra/github-readme-stats)
 [![Kejia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KejiaZhang-Robust&area=true&hide_border=true&theme=github&custom_title=Kejia's%20Contribution%20Graph)](https://github.com/KejiaZhang-Robust/github-readme-activity-graph)
 flat
 ![I Am Proficient in Python](IMG_3762.jpeg) -->
@@ -52,8 +52,6 @@ flat
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=tokyonight&count_private=true" alt="Top Languages" />  
 </div>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KejiaZhang-Robust)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
