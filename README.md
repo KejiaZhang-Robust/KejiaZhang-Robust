@@ -49,7 +49,7 @@ flat
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=noctis_minimus&count_private=true" alt="GitHub Stats" />  
-  <img height="150" src="https://streak-stats.demolab.com/?user=KejiaZhang-Robust&theme=noctis_minimus&hide_border=false&mode=weekly" alt="GitHub Streaks" />  
+  <img height="150" src="https://streak-stats.demolab.com/?user=KejiaZhang-Robust&theme=noctis_minimus" alt="GitHub Streaks" />  
 </div>
 
 <div align="center">
