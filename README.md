@@ -33,8 +33,8 @@ flat
 ### 🔭 About Me 
 
 - 🎓 **Second-year Master’s Student** at **Xiamen University**.
-- 💻 Passionate about AI research, reliale Large Vision-Language Models(LVMs).
-- 🌟 Skilled in **Python**, deep learning, and multimodal modeling.
+- 💻 Passionate about AI research, reliable large vision-language models(LVMs).
+- 🌟 Skilled in **Python**, vision-language models.
 
 ---
 
