@@ -10,7 +10,7 @@
 
 - 🎓 **Final-year Master Student** at **Xiamen University**.
 - 💻 Passionate about AI research, trustworthy large vision-language models (LVMs).
-- 🌟 Skilled in **Python**, large vision-language models.
+- 🌟 Skilled in **Python**, Latex.
 
 ---
 
