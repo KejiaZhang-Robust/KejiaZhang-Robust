@@ -1,47 +1,59 @@
-## Hi there 👋
+<h2 align="center">Kejia Zhang</h2>
 
-[![GitHub](https://img.shields.io/github/followers/KejiaZhang-Robust?style=social)](https://github.com/KejiaZhang-Robust)
-![](https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kejiaz171@gmail.com)
+<p align="center">
+  First-year Ph.D. student in Computer Science at The Hong Kong Polytechnic University
+</p>
+
+<p align="center">
+  <a href="https://kejiazhang-robust.github.io/">
+    <img src="https://img.shields.io/badge/Homepage-1565C0?style=flat&logo=google-chrome&logoColor=white" alt="Homepage" />
+  </a>
+  <a href="https://kejiazhang-robust.github.io/post/">
+    <img src="https://img.shields.io/badge/Blog-24292F?style=flat&logo=github-pages&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=9yVwrLsAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="mailto:kejiaz171@gmail.com">
+    <img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-### 🔭 About Me
+### About Me
 
-- 🎓 **Final-year Master Student** at **Xiamen University**.
-- 💻 Passionate about AI research, trustworthy large vision-language models (LVMs).
-- 🌟 Skilled in **Python**, Latex.
+- I am a first-year Ph.D. student in Computer Science at **The Hong Kong Polytechnic University**.
+- I received my M.S. in Artificial Intelligence from **Xiamen University**.
+- I received my B.Sc. in Mathematics from **Anhui University**.
+- I use GitHub to maintain code, organize projects, and record useful tools.
+- More details are available on my [homepage](https://kejiazhang-robust.github.io/) and [blog](https://kejiazhang-robust.github.io/post/).
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Overview
 
 <div align="center">
-  
-[![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KejiaZhang-Robust&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KejiaZhang-Robust&theme=transparent" alt="GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KejiaZhang-Robust&theme=transparent" alt="Top languages by repository" />
 </div>
 
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=noctis_minimus&count_private=true" alt="GitHub Status" />  
-  <img height="150" src="https://streak-stats.demolab.com/?user=KejiaZhang-Robust&theme=noctis_minimus&hide_border=false&mode=weekly" alt="GitHub Streaks" />  
-</div>
+### Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&theme=noctis_minimus&count_private=true&layout=compact" alt="Top Languages" />  
+  <img src="python.gif" alt="Python animation" width="700" />
 </div>
-
----
-
-### 💡 Expertise
-
-- Proficient in **Python** and advanced Deep learning frameworks.
-
-<div align="center">
-  <img src="python.gif" alt="I Am Proficient in Python" width="700" />
-</div>
-
----
-
-✨ Let’s connect and create impactful projects together!
