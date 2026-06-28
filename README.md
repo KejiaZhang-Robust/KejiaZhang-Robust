@@ -22,21 +22,17 @@
 ### About Me
 
 - I am a first-year Ph.D. student in Computer Science at **The Hong Kong Polytechnic University**.
-- I received my M.S. in Artificial Intelligence from **Xiamen University**.
-- I received my B.Sc. in Mathematics from **Anhui University**.
-- I use GitHub to maintain code, organize projects, and record useful tools.
-- More details are available on my [homepage](https://kejiazhang-robust.github.io/) and [blog](https://kejiazhang-robust.github.io/post/).
+- I work on AI systems and their reliability in real-world settings.
+- I use GitHub to maintain code, organize projects, and keep useful tools.
+- More details are available on my [homepage](https://kejiazhang-robust.github.io/).
 
 ---
 
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KejiaZhang-Robust&theme=transparent" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KejiaZhang-Robust&theme=transparent" alt="Top languages by repository" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top languages" />
 </div>
 
 ---
