@@ -19,14 +19,9 @@
 
 ---
 
-### About Me
-
-| | |
-|---|---|
-| 🎓 | First-year Ph.D. student at **The Hong Kong Polytechnic University** |
-| 💻 | I use GitHub to maintain code, organize projects, and keep useful tools |
-| 🌏 | Outside research, I enjoy travel, cycling, hiking, and trying new experiences |
-| 📫 | Feel free to reach me by email or through my homepage |
+<p align="center">
+  🌏 Outside research: travel · cycling · hiking · trying new experiences
+</p>
 
 ---
 
