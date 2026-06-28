@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:54AEFF&height=140&section=header&text=Kejia%20Zhang&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Kejia Zhang" />
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:60A5FA&height=120&section=header&text=Kejia%20Zhang&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Kejia Zhang" />
+  <br />
   First-year Ph.D. student at The Hong Kong Polytechnic University
 </p>
 
@@ -35,8 +33,8 @@
 ### GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=default&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&icon_color=0969DA&rank_icon=github&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=KejiaZhang-Robust&theme=default&hide_border=false&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=default&hide_border=false&border_color=C9D7DF&title_color=0F766E&text_color=334155&icon_color=0F766E&rank_icon=github&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=KejiaZhang-Robust&theme=default&hide_border=false&border=C9D7DF&ring=0F766E&fire=F59E0B&currStreakLabel=0F766E" alt="GitHub streak" />
 </div>
 
 ---
