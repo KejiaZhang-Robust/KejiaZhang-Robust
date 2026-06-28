@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Life-travel%20%7C%20outdoors-0F766E?style=flat" alt="Life: travel, outdoors" />
+  <a href="https://kejiazhang-robust.github.io/tour/">
+    <img src="https://img.shields.io/badge/Life-travel%20%7C%20outdoors-0F766E?style=flat" alt="Life: travel, outdoors" />
+  </a>
 </p>
 
 ---
