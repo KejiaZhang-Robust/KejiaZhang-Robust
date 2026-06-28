@@ -23,7 +23,7 @@
 
 - 🎓 First-year Ph.D. student at **The Hong Kong Polytechnic University**.
 - 💻 I use GitHub to maintain code, organize projects, and keep useful tools.
-- 🧩 I enjoy building clean research code and practical AI projects.
+- 🌏 Outside research, I enjoy travel, cycling, hiking, and trying new experiences.
 - 📫 Feel free to reach me by email or through my homepage.
 
 ---
