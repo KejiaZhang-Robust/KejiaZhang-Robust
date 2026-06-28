@@ -8,9 +8,6 @@
   <a href="https://kejiazhang-robust.github.io/">
     <img src="https://img.shields.io/badge/Homepage-1565C0?style=flat&logo=google-chrome&logoColor=white" alt="Homepage" />
   </a>
-  <a href="https://kejiazhang-robust.github.io/post/">
-    <img src="https://img.shields.io/badge/Blog-24292F?style=flat&logo=github-pages&logoColor=white" alt="Blog" />
-  </a>
   <a href="https://scholar.google.com/citations?user=9yVwrLsAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
