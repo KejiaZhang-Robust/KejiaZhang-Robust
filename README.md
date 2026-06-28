@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:60A5FA&height=105&section=header&text=Kejia%20Zhang&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Kejia Zhang" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:60A5FA&height=120&section=header&text=Kejia%20Zhang&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Kejia Zhang" />
   <br />
   First-year Ph.D. student at The Hong Kong Polytechnic University
 </p>
