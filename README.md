@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:60A5FA&height=120&section=header&text=Kejia%20Zhang&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Kejia Zhang" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:60A5FA&height=115&section=header&text=Kejia%20Zhang&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="Kejia Zhang" />
   <br />
   First-year Ph.D. student at The Hong Kong Polytechnic University
 </p>
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  🌏 Outside research: travel · cycling · hiking · trying new experiences
+  <img src="https://img.shields.io/badge/Life-travel%20%7C%20cycling%20%7C%20hiking%20%7C%20new%20experiences-0F766E?style=flat" alt="Life: travel, cycling, hiking, new experiences" />
 </p>
 
 ---
