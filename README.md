@@ -15,12 +15,7 @@
     <img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=KejiaZhang-Robust&color=blue" alt="Profile views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Life-travel%20%7C%20cycling%20%7C%20hiking%20%7C%20new%20experiences-0F766E?style=flat" alt="Life: travel, cycling, hiking, new experiences" />
+  <img src="https://img.shields.io/badge/Life-travel%20%7C%20outdoors-0F766E?style=flat" alt="Life: travel, outdoors" />
 </p>
 
 ---
