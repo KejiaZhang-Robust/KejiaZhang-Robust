@@ -1,4 +1,6 @@
-<h2 align="center">Kejia Zhang</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:54AEFF&height=140&section=header&text=Kejia%20Zhang&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Kejia Zhang" />
+</p>
 
 <p align="center">
   First-year Ph.D. student at The Hong Kong Polytechnic University
@@ -21,10 +23,12 @@
 
 ### About Me
 
-- 🎓 First-year Ph.D. student at **The Hong Kong Polytechnic University**.
-- 💻 I use GitHub to maintain code, organize projects, and keep useful tools.
-- 🌏 Outside research, I enjoy travel, cycling, hiking, and trying new experiences.
-- 📫 Feel free to reach me by email or through my homepage.
+| | |
+|---|---|
+| 🎓 | First-year Ph.D. student at **The Hong Kong Polytechnic University** |
+| 💻 | I use GitHub to maintain code, organize projects, and keep useful tools |
+| 🌏 | Outside research, I enjoy travel, cycling, hiking, and trying new experiences |
+| 📫 | Feel free to reach me by email or through my homepage |
 
 ---
 
@@ -40,7 +44,14 @@
 ### Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-main%20language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python main language" />
+</p>
+
+<p align="center">
+  I mainly use Python for research code, experiments, and useful tools.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
@@ -50,3 +61,7 @@
 <div align="center">
   <img src="python.gif" alt="Python animation" width="700" />
 </div>
+
+<p align="center">
+  <em>Keeping Python under control.</em>
+</p>
