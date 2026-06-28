@@ -1,7 +1,7 @@
 <h2 align="center">Kejia Zhang</h2>
 
 <p align="center">
-  First-year Ph.D. student in Computer Science at The Hong Kong Polytechnic University
+  First-year Ph.D. student at The Hong Kong Polytechnic University
 </p>
 
 <p align="center">
@@ -21,18 +21,18 @@
 
 ### About Me
 
-- I am a first-year Ph.D. student in Computer Science at **The Hong Kong Polytechnic University**.
-- I work on AI systems and their reliability in real-world settings.
-- I use GitHub to maintain code, organize projects, and keep useful tools.
-- More details are available on my [homepage](https://kejiazhang-robust.github.io/).
+- 🎓 First-year Ph.D. student at **The Hong Kong Polytechnic University**.
+- 💻 I use GitHub to maintain code, organize projects, and keep useful tools.
+- 🧩 I enjoy building clean research code and practical AI projects.
+- 📫 Feel free to reach me by email or through my homepage.
 
 ---
 
 ### GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejiaZhang-Robust&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KejiaZhang-Robust&show_icons=true&theme=default&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&icon_color=0969DA&rank_icon=github&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=KejiaZhang-Robust&theme=default&hide_border=false&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub streak" />
 </div>
 
 ---
